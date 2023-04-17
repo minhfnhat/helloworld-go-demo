@@ -1,4 +1,5 @@
-# single-dev-env
+# A Simple Hello World Go Demo
+
 Example used to try a single container sample of Docker Dev Environments
 
 ## Run the application
@@ -19,7 +20,7 @@ and if your request `http://localhost:8080` you'll see the following output:
   \____\_______/
 
 
-Hello from Docker!
+Hello from Go!
 
 ```
 
