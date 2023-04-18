@@ -1,6 +1,6 @@
 # A Simple Hello World Go Demo
 
-Example used to try a single container sample of Docker Dev Environments
+Example used to demonstrate ```docker init``` CLI for a simple Hello World Go Program
 
 ## Run the application
 You can simply use `make run` command or do it yourself with `go run main.go`
