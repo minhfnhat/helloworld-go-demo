@@ -19,7 +19,7 @@ func handler(w http.ResponseWriter, r *http.Request) {
   \____\_______/
 
 	
-Hello from Docker haha alo alo dm no chu lip pe!
+Hello from Docker haha alo alo dm no chu lip pe! jajajjajaja
 
 `)
 }
